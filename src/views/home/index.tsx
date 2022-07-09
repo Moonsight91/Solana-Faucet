@@ -39,7 +39,7 @@ export const HomeView: FC = ({ }) => {
         </h4>
         <div className="max-w-md mx-auto mockup-code bg-primary p-6 my-2">
           <pre data-prefix=">">
-            <code className="truncate">Welcome to My Crypto Website</code>
+            <code className="truncate">Solana Faucet</code>
           </pre>
         </div>        
           <div className="text-center">
